@@ -70,6 +70,7 @@
     <Compile Include="Admin_Page\Admin_Success.Designer.cs">
       <DependentUpon>Admin_Success.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="Dao.cs" />
     <Compile Include="Data.cs" />
     <Compile Include="Form1.cs">
