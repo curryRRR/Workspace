@@ -26,7 +26,7 @@ namespace BookMS
             }
             else
             {
-                MessageBox.Show("用户名或密码不能为空");
+                MessageBox.Show("用户名或密码不能为空 1");
             }
         }
 
