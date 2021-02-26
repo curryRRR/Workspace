@@ -1,0 +1,31 @@
+[33mcommit d423e5bb4829dced563090b070128148c4b29650[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mwill[m[33m, [m[1;32mG2[m[33m, [m[1;32mG1[m[33m)[m
+Author: 1075208662 <1075208662@qq.com>
+Date:   Fri Feb 26 17:18:07 2021 +0800
+
+    Revert "demo"
+    
+    This reverts commit 2fd24094516c8f4c175d61759494238dc5d7a27b.
+
+[33mcommit 4d0c5ecf88dad9b3fec946484c5b52e9ecb38eea[m
+Author: 1075208662 <1075208662@qq.com>
+Date:   Fri Feb 26 17:05:44 2021 +0800
+
+    2
+
+[33mcommit 2fd24094516c8f4c175d61759494238dc5d7a27b[m[33m ([m[1;33mtag: v1.0.1[m[33m, [m[1;33mtag: loading[m[33m)[m
+Author: 1075208662 <1075208662@qq.com>
+Date:   Fri Feb 26 17:05:37 2021 +0800
+
+    demo
+
+[33mcommit 1a7c9f4a757529a36d5701705ceeab13b9c7c68a[m
+Author: 1075208662 <1075208662@qq.com>
+Date:   Fri Feb 26 15:32:35 2021 +0800
+
+    添加项目文件。
+
+[33mcommit 75fceb055d9184eac8401110ad168abe54d8e43f[m
+Author: 1075208662 <1075208662@qq.com>
+Date:   Fri Feb 26 15:32:33 2021 +0800
+
+    添加 .gitignore 和 .gitattributes。
