@@ -74,8 +74,8 @@ namespace BookMS
                     adm.ShowDialog();
                     this.Show();
                 }
-                else
-                {
+                else  
+                { 
                     MessageBox.Show("登录失败");
                     text_ID.Clear();
                     text_Pwd.Clear();
